@@ -1,0 +1,5 @@
+name = input("Ваше имя: ")
+namecaps = name.upper()
+print ("Имя капсом: ", namecaps)
+namesrok = name.lower()
+print ("Имя строчными: ",namesrok)
